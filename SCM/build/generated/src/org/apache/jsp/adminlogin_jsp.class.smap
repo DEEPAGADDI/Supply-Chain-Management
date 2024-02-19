@@ -1,0 +1,24 @@
+SMAP
+adminlogin_jsp.java
+JSP
+*S JSP
+*F
++ 0 adminlogin.jsp
+adminlogin.jsp
++ 1 confile.jsp
+confile.jsp
++ 2 header.jsp
+header.jsp
++ 3 footer.jsp
+footer.jsp
+*L
+5,2:52
+1#1,2:54
+4,15:57
+7#0:72
+9,17:74
+25:91
+5#2,21:92
+26#0,28:112
+5#3,18:139
+*E

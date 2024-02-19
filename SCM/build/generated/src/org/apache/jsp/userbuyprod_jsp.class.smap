@@ -1,0 +1,27 @@
+SMAP
+userbuyprod_jsp.java
+JSP
+*S JSP
+*F
++ 0 userbuyprod.jsp
+userbuyprod.jsp
++ 1 confile.jsp
+confile.jsp
++ 2 headerpurchaser.jsp
+headerpurchaser.jsp
++ 3 footer.jsp
+footer.jsp
+*L
+5:52
+1#1,2:53
+4,15:56
+6#0,2:71
+9,4:74
+12,2:78
+5#2,21:80
+14#0,20:100
+34,9:121
+42,16:130
+5#3,15:145
+57#0:159
+*E

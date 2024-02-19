@@ -1,0 +1,25 @@
+SMAP
+paymenttab_jsp.java
+JSP
+*S JSP
+*F
++ 0 paymenttab.jsp
+paymenttab.jsp
++ 1 confile.jsp
+confile.jsp
++ 2 headermanufacture.jsp
+headermanufacture.jsp
++ 3 footer.jsp
+footer.jsp
+*L
+5:52
+1#1,2:53
+4,15:56
+6#0:71
+5#2,21:72
+7#0,19:92
+26,9:112
+34,8:121
+5#3,23:128
+41#0:150
+*E

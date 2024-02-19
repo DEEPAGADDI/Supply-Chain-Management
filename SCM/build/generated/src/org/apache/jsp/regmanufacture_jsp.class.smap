@@ -1,0 +1,29 @@
+SMAP
+regmanufacture_jsp.java
+JSP
+*S JSP
+*F
++ 0 regmanufacture.jsp
+regmanufacture.jsp
++ 1 confile.jsp
+confile.jsp
++ 2 header.jsp
+header.jsp
++ 3 footer.jsp
+footer.jsp
+*L
+5,2:53
+1#1,2:55
+4,15:58
+7#0:73
+9,11:75
+19,2:86
+5#2,26:88
+21#0,16:113
+37:129,3
+38,8:132
+47,14:142
+60,29:156
+5#3,15:184
+88#0:198
+*E

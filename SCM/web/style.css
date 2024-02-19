@@ -1,0 +1,111 @@
+/* 
+    Document   : style
+    Created on : 13 Apr, 2022, 10:36:59 AM
+    Author     : User
+    Description:
+        Purpose of the stylesheet follows.
+*/
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: sans-serif;
+    background-color: #cccccc;
+}
+
+header{
+    padding: 30px;
+    background-color:#999999;
+    color: whitesmoke;
+}
+
+header a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    border: 2px solid black;
+    padding: 15px;
+    background-color:#1e247c;
+    border-radius:10px 10px 10px 10px;
+}
+
+header a:hover{
+    color: black;
+    background-color: white;
+    font-size: 20px;
+}
+
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:#1e247c;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Create two equal columns that floats next to each other */
+.col {
+    float: left;
+    width: 50%;
+    padding: 10px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.sample{
+    background-color: #5764ff;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 10px;
+    cursor: pointer;
+}
+
+td {
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+}
+
+.inputfield{
+    width: 350px;
+    height: 40px;
+}
+
+.submit-btn{
+    width: 150px;
+    height: 50px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: black;
+  font-size: 30px;
+}
+
+.txtcenter {
+  position: absolute;
+  top: 50%;
+  left: 18%;
+  transform: translate(-50%, -50%);
+}
+
+.myimg{
+    opacity: 0.6;
+}

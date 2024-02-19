@@ -1,0 +1,24 @@
+SMAP
+allmanufacturedet_jsp.java
+JSP
+*S JSP
+*F
++ 0 allmanufacturedet.jsp
+allmanufacturedet.jsp
++ 1 confile.jsp
+confile.jsp
++ 2 headeradmin.jsp
+headeradmin.jsp
++ 3 footer.jsp
+footer.jsp
+*L
+5:52
+1#1,2:53
+4,15:56
+6#0:71
+5#2,21:72
+7#0,35:92
+43,8:129
+50,10:137
+5#3,23:146
+*E

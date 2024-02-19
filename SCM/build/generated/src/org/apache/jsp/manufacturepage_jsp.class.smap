@@ -1,0 +1,19 @@
+SMAP
+manufacturepage_jsp.java
+JSP
+*S JSP
+*F
++ 0 manufacturepage.jsp
+manufacturepage.jsp
++ 1 headermanufacture.jsp
+headermanufacture.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+5:50
+8:53,2
+9:55
+5#1,21:56
+10#0,21:76
+5#2,15:96
+*E

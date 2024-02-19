@@ -1,0 +1,25 @@
+SMAP
+distributorreq_jsp.java
+JSP
+*S JSP
+*F
++ 0 distributorreq.jsp
+distributorreq.jsp
++ 1 confile.jsp
+confile.jsp
++ 2 headermanufacture.jsp
+headermanufacture.jsp
++ 3 footer.jsp
+footer.jsp
+*L
+5:52
+1#1,2:53
+4,15:56
+6#0:71
+5#2,21:72
+7#0,21:92
+28,9:114
+36,11:123
+5#3,15:133
+46#0:147
+*E
